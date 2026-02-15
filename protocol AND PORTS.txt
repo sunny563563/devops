@@ -1,0 +1,20 @@
+protocol                                                  port
+=================================
+HTTP                                                        80
+HTTPS                                                     443
+SSH                                                          22
+TELNET                                                   23
+SMTP                                                      25
+FTP                                                          21
+DHCP                                                      67
+DNS                                                         53
+RDP                                                        3389
+MYSQL                                                  3306
+POP3                                                     110
+NFS                                                        2433
+MICROSOFT SQL                               1433
+JENKINS                                               8080
+TOMCAT                                               8080
+GRAFANA                                             3000
+NODE EXPORTER                               9100
+ORACLE PORT                                    2483
