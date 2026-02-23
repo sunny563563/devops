@@ -1,0 +1,10 @@
+apt update -y
+apt upgrade -y
+apt insatll nginx -y
+systemctl start nginx
+systemctl status nginx
+
+========================================
+copy the public ip in the ec2 instance and browse it any browser
+
+========================================
