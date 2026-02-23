@@ -1,0 +1,34 @@
+EC2 instance in AWS
+================================
+step1:-   login to AWS console
+
+step2:-   goto search type EC2 and click on EC2
+
+step4:-   select os (AMI :- amazon machine image)
+                           |
+                Amazon Linux --> YUM
+                ubuntu             --> APT
+                windows  
+                Redhat             --> RPM
+
+step5:-   select  instance type (t3.micro, t3.small)
+
+step6:-  create a key-pair
+                         |
+               RSA algorithm
+                         |
+                .pem key
+
+step7:-   Network setting:-
+                          |
+               default VPC
+                          |
+                All traffic
+
+step8:-  add name tag
+
+step9:-  select by default root volume
+                           |
+              general purpose(gp3)
+
+step10:-  check all resources , review and launch insatance          
